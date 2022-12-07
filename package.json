@@ -15,7 +15,7 @@
     "express-fileupload": "^1.1.7-alpha.3",
     "get-json": "^1.0.1",
     "hashids": "^1.2.2",
-    "ipfs": "^0.44.0",
+    "ipfs": "^0.65.0",
     "ipfs-http-client": "^44.1.0",
     "jQuery": "^1.7.4",
     "jsonwebtoken": "^8.1.0",
